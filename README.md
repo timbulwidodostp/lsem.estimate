@@ -1,6 +1,8 @@
 # lsem.estimate
 Local Structural Equation Models (LSEM) Use lsem.estimate (sirt) With (In) R Software
 
+https://www.youtube.com/watch?v=VmrE25kBQbA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
